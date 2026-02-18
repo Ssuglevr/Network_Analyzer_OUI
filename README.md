@@ -29,5 +29,4 @@ Este script debe ejecutarse con privilegios de administrador (sudo) para poder e
 ### 2. Clonar el Repositorio
 
 ```bash
-git clone [https://github.com/tu-usuario/nombre-del-repositorio.git](https://github.com/tu-usuario/nombre-del-repositorio.git)
-cd nombre-del-repositorio
+git clone https://github.com/Ssuglevr/Network_Analyzer_OUI.git
